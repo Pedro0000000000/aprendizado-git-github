@@ -1,3 +1,1 @@
-muito bom: 01 02 teste pra ver se a senha ssh estar funcionando
-
-
+muito bom: 01 02
